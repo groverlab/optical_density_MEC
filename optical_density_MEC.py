@@ -21,10 +21,11 @@
 # ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 # DEALINGS IN THE SOFTWARE.
 
-# Usage:  This program expects to be run in the same directory as a folder named
-# "yeast data from optical density MEC" containing binary data from the optical
-# density MEC.  When this program is run, it reads in this raw data, filters it
-# using a median filter, and shows a plot of voltage vs. time.
+# Usage:  This program expects to be run in the same directory as the folder
+# named "yeast data from optical density MEC" containing binary data from the
+# optical density Multifluidic Evolutionary Component (MEC).  When this program
+# is run, it reads in this raw data, filters it using a median filter, and shows
+# a plot of voltage vs. time.
 
 # Dependencies:
 #   Python 2.X (http://www.python.org)
