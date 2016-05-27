@@ -9,10 +9,11 @@ wgrover@engr.ucr.edu     http://groverlab.org
 Usage
 -----
 
-This program expects to be run in the same directory as the folder named
-"yeast data from optical density MEC" containing binary data from the optical
-density MEC.  When this program is run, it reads in this raw data, filters it
-using a median filter, and shows a plot of voltage vs. time.
+This program expects to be run in the same directory as the folder named "yeast
+data from optical density MEC" containing binary data from the optical density
+Multifluidic Evolutionary Component (MEC).  When this program is run, it reads
+in this raw data, filters it using a median filter, and shows a plot of voltage
+vs. time.
 
 Dependencies
 ------------
