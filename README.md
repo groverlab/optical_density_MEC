@@ -1,10 +1,9 @@
 # optical_density_MEC
 Analyzes binary data from the optical density Multifluidic Evolutionary Component (MEC)
 
-by William H. Grover, Department of Bioengineering
-University of California, Riverside
-wgrover@engr.ucr.edu
-http://groverlab.org
+by William H. Grover, Department of Bioengineering, University of California, Riverside
+
+wgrover@engr.ucr.edu     http://groverlab.org
 
 
 Usage
