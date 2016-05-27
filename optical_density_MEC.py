@@ -32,7 +32,8 @@
 #   Scipy (http://www.scipy.org)
 #   Matplotlib (http://matplotlib.org)
 
-# The latest version of this program is available 
+# The latest version of this program is available at
+# https://github.com/groverlab/optical_density_MEC
 
 import numpy, pylab, os.path, scipy.signal
 
